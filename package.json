@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Exempl API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KozelVolodumur/nodejsapi.git"
+  },
+  "author": "Volodymyr Kozel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KozelVolodumur/nodejsapi/issues"
+  },
+  "homepage": "https://github.com/KozelVolodumur/nodejsapi#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
